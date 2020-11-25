@@ -1,6 +1,11 @@
 #consent {
     position: fixed;
     bottom: 0px;
+
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 3px;
 }
 
 .consent_level {
@@ -8,15 +13,17 @@
 }
 
 div#consent div {
+    color: white;
     border: thin solid black;
     padding: 2px;
-    margin-bottom: 2px;
-    background: teal;
+    margin-bottom: 7px;
+    background: #203040;
     cursor: pointer;
-
+    font-weight: bold;
 }
+
 div#consent div.selected {
-    background: orange;
+    background: #ff8000;
 }
 
 div#customer_id {
