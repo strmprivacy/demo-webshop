@@ -1,0 +1,26 @@
+#consent {
+    position: fixed;
+    bottom: 0px;
+}
+
+.consent_level {
+
+}
+
+div#consent div {
+    border: thin solid black;
+    padding: 2px;
+    margin-bottom: 2px;
+    background: teal;
+    cursor: pointer;
+
+}
+div#consent div.selected {
+    background: orange;
+}
+
+div#customer_id {
+    background: none !important;
+    border: thin solid black;
+
+}
