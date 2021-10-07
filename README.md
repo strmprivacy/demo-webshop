@@ -1,6 +1,6 @@
 # Fictional Webshop Demo
 
-This demo was shown at the OpenValue meetup of November 25th 2020. See the recording [here](https://streammachine.io).
+This demo was shown at the OpenValue meetup of November 25th 2020. See the recording [here](https://www.youtube.com/watch?v=jwQns2OAElk).
 
 ## Prerequisites
 
